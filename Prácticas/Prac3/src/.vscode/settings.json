@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\alvar\\OneDrive - Universidad Politécnica de Madrid\\UNIVERSIDAD\\2º AÑO\\Bases de Datos\\Prácticas\\Practica3\\mysql-connector-java-8.0.28.jar"
+    ]
+}
